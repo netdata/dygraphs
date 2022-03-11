@@ -1,7 +1,7 @@
 {
-  "name": "dygraphs",
+  "name": "@netdata/dygraphs",
   "version": "2.1.0",
-  "description": "dygraphs is a fast, flexible open source JavaScript charting library.",
+  "description": "Forked dygraphs repo, which is a fast, flexible open source JavaScript charting library.",
   "main": "index.es5",
   "module": "index",
   "jsnext:main": "index",
@@ -13,10 +13,7 @@
     "src",
     "src-es5"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/danvk/dygraphs.git"
-  },
+  "repository": "git@github.com:netdata/dygraphs.git",
   "keywords": [
     "dygraphs",
     "javascript",
