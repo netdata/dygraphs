@@ -6,3 +6,10 @@ dist
 coverage
 *.log
 *.pyc
+
+# System files
+.DS_Store
+
+# IDE
+.vscode/
+.idea
