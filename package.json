@@ -1,6 +1,6 @@
 {
   "name": "@netdata/dygraphs",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Forked dygraphs repo, which is a fast, flexible open source JavaScript charting library.",
   "main": "index.es5",
   "module": "index",

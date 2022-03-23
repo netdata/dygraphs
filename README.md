@@ -72,6 +72,8 @@ To get going, clone the repo and run:
 
 Then open `tests/demo.html` in your browser.
 
+**Important Note:** It is required to run `build` script before NPM publish, for folder `src-es5` to have been created and included in the published files.
+
 Read more about the dygraphs development process in the [developer guide](/DEVELOP.md).
 
 ## License(s)
