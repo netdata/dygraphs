@@ -13,3 +13,6 @@ coverage
 # IDE
 .vscode/
 .idea
+
+# Build files
+src-es5
